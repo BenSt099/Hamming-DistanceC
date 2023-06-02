@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-Wall -Werror
+CFLAGS=-Wall -Werror -lpthread
 BIN=hdc
 OBJECTS=hdc.o
 
